@@ -1,4 +1,4 @@
-### Ecommerce React App
+### Ecommerce React App frontend for the Fake Store API 
 
 Includes:
 * Landing Page
@@ -6,6 +6,8 @@ Includes:
 * Navbar
 * Responsive store items
 * Checkout
+* Async API requests
+* Custom reducer hook for API calls
 
 
 TODO: 
