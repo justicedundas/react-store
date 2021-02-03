@@ -8,7 +8,7 @@ Includes:
 * Checkout
 * Async API requests
 * Custom reducer hook for API calls
-* Global state management with Context providers
+* Global state management with React context and HOC's 
 
 
 TODO: 
