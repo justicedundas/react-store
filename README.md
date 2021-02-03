@@ -8,6 +8,7 @@ Includes:
 * Checkout
 * Async API requests
 * Custom reducer hook for API calls
+* Global state management with Context providers
 
 
 TODO: 
