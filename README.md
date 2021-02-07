@@ -4,7 +4,7 @@ Includes:
 * Landing Page
 * Shopping Cart
 * Navbar
-* Responsive store items
+* Store
 * Checkout
 * Async API requests
 * Custom reducer hook for API calls
