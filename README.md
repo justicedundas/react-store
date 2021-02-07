@@ -8,7 +8,8 @@ Includes:
 * Checkout
 * Async API requests
 * Custom reducer hook for API calls
-* Global state management with React context and HOC's 
+* Global state management with React context and HOC's
+* Routing with React Router
 
 
 TODO: 
